@@ -18,5 +18,12 @@ target="_blank">DOI:10.1109/TVT.2016.2585200</a></li>
 target="_blank">DOI:10.1109/TCOMM.2016.2521723</a></li> 
 <li><b>I. A. M. Balapuwaduge</b>, L. Jiao, V. Pla, and F. Y. Li, Channel Assembling with Priority-based Queues in Cognitive Radio Networks: Strategies and Performance Evaluation, IEEE Transactions on Wireless Communications, pp. 630-645, vol. 13, no. 2, Feb. 2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6684549"
 target="_blank">DOI:10.1109/TWC.2013.120713.121948</a></li>
-<li><b>I. A. M. Balapuwaduge</b>, F. Y. Li, and V. Pla, ``On the Performance of Channel Assembling and Fragmentation in Cognitive Radio Networks", \emph{IEEE Transactions on Wireless Communications}, pp. 5661-5675, vol. 13, no. 10, Oct. 2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6810832"
+<li><b>I. A. M. Balapuwaduge</b>, F. Y. Li, and V. Pla, On the Performance of Channel Assembling and Fragmentation in Cognitive Radio Networks, IEEE Transactions on Wireless Communications, pp. 5661-5675, vol. 13, no. 10, Oct. 2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6810832"
 target="_blank">DOI:10.1109/TWC.2014.2322057</a></li></font><br/>
+
+### Conference Papers
+<font size="3">
+<li>T. Weerasinghe, V. Casares-Giner, <b>I. A. M. Balapuwaduge</b>, F. Y. Li, and M.-C. Vochin, A Pseudo-Bayesian Subframe based Framework for Grant-Free Massive Random Access in 5G NR Networks, in Proc. International Conference on Computer Communications and Networks (ICCCN), Honolulu, HI, USA, Jul. 2022.<a href="https://doi.org/10.1109/ICCCN54977.2022.9868918"
+target="_blank">DOI:10.1109/ICCCN54977.2022.9868918</a></li>
+<li>C. Conțu, A. Ciobanu, E. N Borcoci, M.-C. Vochin, I. A. M. Balapuwaduge, S. Topoloi and R.-F. Trifan, Deploying Use Case Specific Network Slices Using	an OSM Automation Platform, in Proc.  Int. Symposium on Wireless Personal Multimedia Communications (WPMC), Herning, Denmark, Nov. 2022.<a href="https://ieeexplore.ieee.org/document/10014883"
+target="_blank">DOI:10.1109/WPMC55625.2022.10014883</a></li>
